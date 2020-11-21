@@ -83,12 +83,12 @@ author:
   name             : "Carolina Concha Arriagada"
   avatar           : "cca_pic.png"
   bio              : "Ph.D. (c) in Economics, Georgetown University"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Carolina_Concha-Arriagada"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carolinaconcaha"
+  github           : "carolinaconcha"
   google_plus      :
   keybase          :
   instagram        :
@@ -244,7 +244,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
