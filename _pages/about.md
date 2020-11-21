@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at Georgetown University. My research field is applied microeconomics, economics of education and political economy.
+I am a 4th year PhD student in Economics at Georgetown University. My research field are applied microeconomics, economics of education and political economy.
 
-You can find my CV [here](/files/CCA_CV.pdf) 
+You can find my CV [here](/files/CCA_CV.pdf).
