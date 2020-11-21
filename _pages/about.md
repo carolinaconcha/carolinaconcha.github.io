@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: "../images/intro_flowers.png"
+  image: "../images/intro_flowers1.png"
 ---
 
 ## About Me
