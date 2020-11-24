@@ -10,20 +10,12 @@ author_profile: true
 Should they stay or should they go?: Effects of Changes in College Admission Policies.
 
 <details>
-<summary>I could use some help...</summary>
+<summary>Abstract</summary>
 <p>
-
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-\```
+    this is a trial
 
 </p>
 </details>  
+
 
 It's Always Sunny in Politics. (with <u><a href="{{https://sites.google.com/georgetown.edu/jjnaddeo}}">JJ Naddeo</a>.</u>)
