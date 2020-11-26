@@ -9,7 +9,7 @@ author_profile: true
 
 Principles of Microeconomics, Department of Economics, Georgetown University, Summer 2019
 
-Principles of Microeconomics, Department of Economics, Georgetown University, Summer 2020 (Co-teach with Rachel Feldman)
+Principles of Microeconomics, Department of Economics, Georgetown University, Summer 2020 (Cotaught with Rachel Feldman)
 
 ## Teaching Assistant at Georgetown 
 
