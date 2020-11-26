@@ -10,7 +10,7 @@ author_profile: true
 Should they stay or should they go?: Effects of Changes in College Admission Policies.
 
 
-It's Always Sunny in Politics. (with <u><a href="{{https://sites.google.com/georgetown.edu/jjnaddeo}}">JJ Naddeo</a>.</u>)
+It's Always Sunny in Politics. (with [JJ Naddeo](https://sites.google.com/georgetown.edu/jjnaddeo))
 
 <details>
 <summary>Abstract</summary>
