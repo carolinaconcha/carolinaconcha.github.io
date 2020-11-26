@@ -8,7 +8,7 @@ author_profile: true
 ## Work in Progress
 
 Should they stay or should they go?: Effects of Changes in College Admission Policies.
-<div class="popupphoto">
+#<div class="popupphoto">
 				# <img src="/images/probchange_12th_top50simce_non_stgo.png" alt="" class="myimage">
 				# </div>
 
