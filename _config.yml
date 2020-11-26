@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Carolina Concha Arriagada"
 title_separator          : "-"
 name                     : &name "Carolina Concha Arriagada"
 description              : &description "Ph. D (c) in Economics, Georgetown University"
@@ -88,7 +88,6 @@ author:
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Carolina_Concha-Arriagada"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,6 +114,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  researchgate     : "https://www.researchgate.net/profile/Carolina_Concha-Arriagada"
+
 
 
 # Reading Files
