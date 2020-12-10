@@ -9,6 +9,15 @@ author_profile: true
 
 [1] Should they stay or should they go?: Effects of Changes in College Admission Policies.
 
+<details>
+<summary>Abstract</summary>
+<p>
+  
+Existing research has suggested that the context and policy details can matter when we analyze the desired outcomes for disadvantaged students. In this paper, I study how students’ decisions affect the effectiveness of education policies in the context of a change in Chile’s college admission policy. I present a simple theoretical model to identify the students who have an incentive to arbitrage the policy by switching schools. Using an event study design, I show that the policy successfully increased low-tier schools students’ likelihood of going to college, but that this effect disappeared after students from higher-tier schools strategically switched schools. I also find that these strategic movers have a marked increase in their application scores after switching schools.
+
+</p>
+</details>  
+
 [2] It's Always Sunny in Politics. (with [JJ Naddeo](https://sites.google.com/georgetown.edu/jjnaddeo))
 
 <details>
