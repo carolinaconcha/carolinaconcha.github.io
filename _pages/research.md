@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work in Progress
 
-[1] Should they stay or should they go?: Effects of Changes in College Admission Policies.
+[1] Should They Stay or Should They Go? How High School Students Respond to Changes in College Admissions Policies.
 
 <details>
 <summary>Abstract</summary>
