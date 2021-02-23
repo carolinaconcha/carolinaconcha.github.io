@@ -27,3 +27,5 @@ How do citizens decide who to vote for? In democracies where voting is not manda
 
 </p>
 </details>  
+
+[3] The value of gaining a peer, the value of losing a peer: Evidence from a policy reform in Chile (with [Jesus M. Villero](https://sites.google.com/view/jvillero/home?authuser=0))
