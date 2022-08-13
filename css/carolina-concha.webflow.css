@@ -393,6 +393,10 @@
     color: #fff;
   }
 
+  .margin-bottom-24px {
+    margin-left: 0px;
+  }
+
   .container {
     max-width: 728px;
   }
@@ -445,6 +449,10 @@
     padding-left: 0px;
   }
 
+  .margin-bottom-24px {
+    margin-left: 13px;
+  }
+
   .hero-heading-center {
     padding: 60px 15px;
   }
@@ -465,6 +473,10 @@
 
   .container {
     max-width: none;
+  }
+
+  .text-block-6 {
+    padding-right: 21px;
   }
 }
 
