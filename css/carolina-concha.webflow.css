@@ -337,6 +337,7 @@
 
 .image-4 {
   padding-left: 0px;
+  border: 10px solid #000;
   text-align: center;
 }
 
@@ -377,6 +378,46 @@
 
 .italic-text {
   font-style: normal;
+}
+
+.image-5 {
+  border: 10px solid #000;
+}
+
+.image-6 {
+  border: 10px solid #000;
+}
+
+.image-7 {
+  border: 10px solid #000;
+}
+
+.image-8 {
+  border: 10px solid #000;
+}
+
+.image-9 {
+  border: 10px solid #000;
+}
+
+.image-10 {
+  border: 10px solid #000;
+}
+
+.image-11 {
+  border: 10px solid #000;
+}
+
+.image-12 {
+  border: 10px solid #000;
+}
+
+.image-13 {
+  border: 10px solid #000;
+}
+
+.image-14 {
+  border: 10px solid #000;
 }
 
 @media screen and (max-width: 991px) {
@@ -456,6 +497,14 @@
     font-size: 40px;
     background-clip: border-box;
     -webkit-text-fill-color: inherit;
+  }
+
+  .text-block-5 {
+    padding-right: 52px;
+  }
+
+  .heading-4 {
+    font-size: 28px;
   }
 
   .text-block-6 {
