@@ -102,7 +102,10 @@
 }
 
 .centered-heading.margin-bottom-32px {
+  margin-top: 10px;
   margin-bottom: 0px;
+  font-size: 18px;
+  line-height: 40px;
   font-style: normal;
   text-align: left;
 }
@@ -125,7 +128,8 @@
 
 .margin-bottom-24px {
   overflow: scroll;
-  margin: 0px;
+  margin: 6px 0px 0px;
+  padding-bottom: 0px;
   padding-left: 40px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
@@ -147,7 +151,7 @@
 
 .hero-heading-center {
   position: relative;
-  padding: 20px 0px 40px;
+  padding: 0px;
   border-bottom: 1px solid #e4ebf3;
   background-color: #f2f5f6;
   box-shadow: -3px 6px 10px 2px #889daa;
@@ -160,6 +164,8 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 0px;
+  padding-bottom: 0px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -229,6 +235,7 @@
   margin-left: 30px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
+  font-size: 40px;
   text-align: center;
   text-decoration: underline;
 }
@@ -238,6 +245,7 @@
   margin-left: 40px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
+  font-size: 18px;
 }
 
 .text-block-2 {
@@ -245,13 +253,14 @@
   direction: ltr;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .button {
   margin-left: 50px;
   padding-right: 15px;
   font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
   -o-object-fit: fill;
   object-fit: fill;
 }
@@ -262,13 +271,14 @@
   padding-left: 50px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .button-2 {
   margin-left: 50px;
   padding-bottom: 9px;
   font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
 }
 
 .text-block-4 {
@@ -277,12 +287,13 @@
   padding-right: 0px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .button-3 {
   margin-left: 50px;
   font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
 }
 
 .list-item-2 {
@@ -417,7 +428,7 @@
   margin-left: 40px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
-  font-size: 20px;
+  font-size: 18px;
   font-style: normal;
 }
 
@@ -723,6 +734,7 @@
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
   font-size: 18px;
+  line-height: 20px;
   font-style: normal;
   font-weight: 700;
 }
@@ -862,12 +874,14 @@
 }
 
 .bold-text-7 {
+  font-size: 22px;
   text-decoration: underline;
 }
 
 .section-3 {
   padding-top: 100px;
   background-color: #f2f5f6;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .div-block-5 {
@@ -970,7 +984,8 @@
   height: 100%;
   margin-top: 0px;
   margin-left: 60px;
-  padding-right: 140px;
+  padding-top: 0px;
+  padding-right: 200px;
   clear: none;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -1219,6 +1234,10 @@
     text-align: center;
   }
 
+  .bold-text-7 {
+    margin-left: 0px;
+  }
+
   .footer-content {
     grid-column-gap: 60px;
   }
@@ -1415,12 +1434,50 @@
     margin-bottom: 24px;
   }
 
+  .centered-heading.margin-bottom-32px {
+    margin-bottom: 0px;
+    font-weight: 400;
+  }
+
   .margin-bottom-24px {
+    margin-top: 0px;
     padding-left: 0px;
   }
 
   .container {
     max-width: none;
+  }
+
+  .hero-heading-center {
+    padding-top: 0px;
+  }
+
+  .hero-wrapper {
+    margin-bottom: 0px;
+  }
+
+  .hero-split {
+    margin-bottom: 0px;
+  }
+
+  .heading-2 {
+    font-size: 30px;
+  }
+
+  .heading-3 {
+    font-size: 12px;
+  }
+
+  .text-block-2 {
+    font-size: 11px;
+  }
+
+  .text-block-3 {
+    font-size: 11px;
+  }
+
+  .text-block-4 {
+    font-size: 11px;
   }
 
   .text-block-6 {
@@ -1435,16 +1492,47 @@
     padding-right: 17px;
   }
 
+  .text-block-11 {
+    font-size: 14px;
+  }
+
   .nav-menu-three {
+    padding-top: 0px;
+    padding-bottom: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+    background-color: #f2f5f6;
   }
 
   .heading-6 {
     font-size: 20px;
+  }
+
+  .italic-text-2 {
+    width: 12px;
+    height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  .hero-heading-center-2 {
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+
+  .margin-bottom-24px-2 {
+    margin-bottom: 0px;
+    font-size: 11px;
+  }
+
+  .shadow-two-2 {
+    max-height: 100%;
+    max-width: 100%;
   }
 
   .image-17 {
