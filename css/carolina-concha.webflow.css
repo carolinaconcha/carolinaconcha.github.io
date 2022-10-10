@@ -1497,8 +1497,9 @@
   }
 
   .nav-menu-three {
-    padding-top: 0px;
-    padding-bottom: 0px;
+    margin-top: -48px;
+    margin-left: 60px;
+    padding: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
