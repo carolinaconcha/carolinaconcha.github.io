@@ -112,9 +112,9 @@
 
 .shadow-two {
   width: 40000px;
-  height: 450px;
-  max-height: 120%;
-  max-width: 105%;
+  height: 475px;
+  max-height: 100%;
+  max-width: 100%;
   min-width: 5px;
   margin: 0px;
   padding: 0px;
@@ -128,7 +128,7 @@
 
 .margin-bottom-24px {
   overflow: scroll;
-  margin: 6px 0px 0px;
+  margin: 0px;
   padding-bottom: 0px;
   padding-left: 40px;
   font-family: 'Open Sans', sans-serif;
