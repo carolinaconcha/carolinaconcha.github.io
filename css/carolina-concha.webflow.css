@@ -103,7 +103,10 @@
 
 .centered-heading.margin-bottom-32px {
   margin-top: 10px;
+  margin-right: -22px;
   margin-bottom: 0px;
+  padding-right: 0px;
+  color: #be292b;
   font-size: 30px;
   line-height: 50px;
   font-style: normal;
@@ -835,8 +838,8 @@
 .shadow-two-2 {
   overflow: visible;
   max-height: 140%;
-  max-width: 120%;
-  margin-top: 0px;
+  max-width: 150%;
+  margin-top: -44px;
   margin-left: 0px;
   box-shadow: 0 4px 24px 0 rgba(150, 163, 181, 0.08);
 }
@@ -1040,6 +1043,10 @@
   height: 100%;
   margin-left: 100px;
   padding-left: 0px;
+}
+
+.text-span {
+  color: #99080b;
 }
 
 @media screen and (max-width: 991px) {
