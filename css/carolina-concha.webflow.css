@@ -1238,6 +1238,8 @@
   }
 
   .shadow-two-2 {
+    max-height: 140%;
+    margin-left: -19px;
     text-align: center;
   }
 
@@ -1374,6 +1376,11 @@
 
   .margin-bottom-24px-2 {
     margin-right: 0px;
+  }
+
+  .shadow-two-2 {
+    max-width: 150%;
+    margin-top: -29px;
   }
 
   .image-15 {
@@ -1541,6 +1548,7 @@
   .shadow-two-2 {
     max-height: 100%;
     max-width: 100%;
+    margin-top: -6px;
   }
 
   .image-17 {
