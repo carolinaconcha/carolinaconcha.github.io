@@ -235,7 +235,7 @@
 
 .heading-2 {
   margin-bottom: -48px;
-  margin-left: 30px;
+  margin-left: 60px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
   font-size: 40px;
@@ -420,7 +420,8 @@
 }
 
 .heading-5 {
-  margin-left: 30px;
+  margin-left: 0px;
+  padding-left: 140px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
   text-align: center;
@@ -428,7 +429,7 @@
 }
 
 .text-block-11 {
-  margin-left: 146px;
+  margin-left: 80px;
   font-family: 'Open Sans', sans-serif;
   color: #2b3583;
   font-size: 18px;
@@ -1053,7 +1054,7 @@
 }
 
 .section-4 {
-  padding-left: 200px;
+  padding-left: 140px;
 }
 
 .bold-text-8 {
@@ -1154,6 +1155,38 @@
     margin-left: 20px;
   }
 
+  .heading-2 {
+    margin-left: 0px;
+  }
+
+  .heading-3 {
+    margin-left: 60px;
+  }
+
+  .text-block-2 {
+    padding-left: 60px;
+  }
+
+  .button {
+    margin-left: 60px;
+  }
+
+  .text-block-3 {
+    padding-left: 60px;
+  }
+
+  .button-2 {
+    margin-left: 60px;
+  }
+
+  .text-block-4 {
+    margin-left: 60px;
+  }
+
+  .button-3 {
+    margin-left: 60px;
+  }
+
   .icon {
     font-size: 40px;
     background-clip: border-box;
@@ -1187,6 +1220,14 @@
   .button-4 {
     padding-right: 3px;
     padding-left: 3px;
+  }
+
+  .heading-5 {
+    margin-left: 220px;
+  }
+
+  .text-block-11 {
+    margin-left: 60px;
   }
 
   .navbar-wrapper-three {
@@ -1262,6 +1303,11 @@
     text-align: center;
   }
 
+  .text-block-13 {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+
   .bold-text-7 {
     margin-left: 0px;
   }
@@ -1275,6 +1321,14 @@
     height: 80%;
     padding-right: 140px;
     text-align: center;
+  }
+
+  .section-4 {
+    padding-left: 0px;
+  }
+
+  .section-5 {
+    margin-left: -200px;
   }
 }
 
@@ -1402,6 +1456,11 @@
     margin-top: -29px;
   }
 
+  .text-block-13 {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+
   .image-15 {
     padding-bottom: 10px;
   }
@@ -1498,19 +1557,35 @@
   }
 
   .heading-3 {
+    margin-left: 10px;
     font-size: 12px;
   }
 
   .text-block-2 {
+    padding-left: 10px;
     font-size: 11px;
+  }
+
+  .button {
+    margin-left: 10px;
   }
 
   .text-block-3 {
+    padding-left: 10px;
     font-size: 11px;
   }
 
+  .button-2 {
+    margin-left: 10px;
+  }
+
   .text-block-4 {
+    margin-left: 10px;
     font-size: 11px;
+  }
+
+  .button-3 {
+    margin-left: 10px;
   }
 
   .text-block-6 {
@@ -1525,7 +1600,12 @@
     padding-right: 17px;
   }
 
+  .heading-5 {
+    padding-left: 0px;
+  }
+
   .text-block-11 {
+    margin-left: 10px;
     font-size: 14px;
   }
 
