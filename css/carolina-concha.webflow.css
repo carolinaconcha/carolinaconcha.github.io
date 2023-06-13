@@ -1,6 +1,7 @@
 .nav-link {
-  color: #fafafa;
+  color: #343a6d;
   letter-spacing: .25px;
+  background-color: rgba(0, 0, 0, 0);
   border: 1px solid rgba(0, 0, 0, 0);
   margin-left: 5px;
   margin-right: 5px;
@@ -860,9 +861,12 @@
 
 @media screen and (max-width: 991px) {
   .nav-link {
+    color: #252846;
     padding-left: 5px;
     padding-right: 5px;
     font-size: 14px;
+    position: relative;
+    left: -40px;
   }
 
   .nav-menu-wrapper {
@@ -888,6 +892,8 @@
   }
 
   .centered-heading.margin-bottom-32px {
+    margin-top: 6px;
+    margin-bottom: 47px;
     font-size: 24px;
   }
 
@@ -896,10 +902,16 @@
     max-height: 100%;
     max-width: 100%;
     object-fit: scale-down;
+    margin-top: -110px;
+    margin-bottom: -107px;
+    margin-right: -150px;
   }
 
   .margin-bottom-24px {
-    margin-left: 0;
+    max-width: 700px;
+    margin-top: -6px;
+    margin-left: -39px;
+    margin-right: -200px;
     font-size: 14px;
   }
 
@@ -1000,14 +1012,30 @@
   }
 
   .nav-menu-three {
-    background-color: #fff;
-    border-radius: 50px;
+    width: 100svw;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    -webkit-text-fill-color: inherit;
+    background-color: #ebe9ff;
+    background-clip: border-box;
+    border-radius: 20px;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin-top: -45px;
-    padding: 20px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    font-size: 5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 10px;
     display: flex;
+    top: -20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
     box-shadow: 0 8px 50px rgba(0, 0, 0, .05);
   }
 
@@ -1034,14 +1062,28 @@
     font-size: 30px;
   }
 
+  .italic-text-2 {
+    height: 5px;
+    max-height: 10px;
+    max-width: 10px;
+    overflow: scroll;
+  }
+
   .hero-heading-center-2 {
     padding-left: 60px;
     padding-right: 100px;
   }
 
+  .margin-bottom-24px-2 {
+    margin-bottom: 0;
+    margin-left: -45px;
+    margin-right: 60px;
+  }
+
   .shadow-two-2 {
     max-height: 140%;
     text-align: center;
+    margin-top: -25px;
     margin-left: -19px;
   }
 
@@ -1095,13 +1137,36 @@
     font-size: 26px;
   }
 
+  .shadow-two {
+    margin-top: -104px;
+    margin-left: -58px;
+  }
+
   .margin-bottom-24px {
-    margin-left: 13px;
+    max-width: 500px;
+    margin-bottom: -70px;
+    margin-left: -30px;
+    margin-right: 0;
+    padding-right: 0;
     font-size: 18px;
   }
 
   .hero-heading-center {
     padding: 60px 15px;
+  }
+
+  .heading-2 {
+    padding-right: 20px;
+  }
+
+  .text-block-2, .text-block-3 {
+    padding-left: 40px;
+    padding-right: 10px;
+  }
+
+  .text-block-4 {
+    margin-left: 40px;
+    padding-right: 10px;
   }
 
   .navbar-brand-three {
@@ -1111,7 +1176,8 @@
   .nav-menu-three {
     border-radius: 20px;
     flex-direction: row;
-    margin-top: 0;
+    margin-top: -41px;
+    margin-left: -24px;
     padding-bottom: 30px;
   }
 
@@ -1164,16 +1230,19 @@
   }
 
   .hero-heading-center-2 {
-    padding: 60px 15px;
+    padding: 0 15px;
   }
 
   .margin-bottom-24px-2 {
-    margin-right: 0;
+    margin-left: -30px;
+    margin-right: 100px;
   }
 
   .shadow-two-2 {
-    max-width: 150%;
+    max-width: 95%;
     margin-top: -29px;
+    margin-left: -30px;
+    margin-right: 0;
   }
 
   .text-block-13 {
@@ -1223,6 +1292,13 @@
 }
 
 @media screen and (max-width: 479px) {
+  .nav-link {
+    width: 10px;
+    margin-left: -77px;
+    padding-left: 0;
+    position: static;
+  }
+
   .nav-menu {
     flex-direction: column;
   }
@@ -1233,12 +1309,22 @@
 
   .centered-heading.margin-bottom-32px {
     margin-bottom: 0;
+    margin-right: -5px;
     font-weight: 400;
   }
 
   .margin-bottom-24px {
+    max-width: 80%;
     margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -20px;
+    padding-top: 10px;
     padding-left: 0;
+    position: static;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: -131px;
   }
 
   .container {
@@ -1311,11 +1397,20 @@
   }
 
   .nav-menu-three {
+    width: 80svw;
+    height: 50px;
+    outline-offset: 0px;
+    mix-blend-mode: normal;
     background-color: #f2f5f6;
+    outline: 3px #fff;
     flex-direction: column;
-    margin-top: -48px;
-    margin-left: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
     padding: 0;
+    font-weight: 400;
+    line-height: 5px;
+    transition: opacity .2s;
   }
 
   .heading-6 {
@@ -1343,8 +1438,13 @@
 
   .shadow-two-2 {
     max-height: 100%;
-    max-width: 100%;
+    max-width: 80%;
     margin-top: -6px;
+    font-size: 30%;
+  }
+
+  .footer-social-block {
+    margin-left: 200px;
   }
 
   .image-17 {
